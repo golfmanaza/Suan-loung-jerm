@@ -55,13 +55,10 @@ h1,h2,h3,h4,h5,h6 {
 
       <h4>ที่ตั้งและบรรยากาศ</h4>
       <p class="w3-text-grey">ถนนเพชรเกษม สงขลา (ใกล้ชลดาหมูกระทะ)</p><br>
-
       <h4>ช่วงราคา</h4>
       <p class="w3-text-grey">15-100</p><br>
-
       <h4>เบอร์ติดต่อ</h4>
       <p class="w3-text-grey">ไม่มี</p><br>
-
       <h4>ข้อมูลอื่นๆ</h4> 
       <p class="w3-text-grey">จอดรถริมถนนหน้าร้าน และด้านหลังร้าน<br>
       บรรยากาศดี และโต๊ะเยอะมาก<br> 
@@ -73,7 +70,6 @@ h1,h2,h3,h4,h5,h6 {
       <img src="slj5.jpg" class="w3-round w3-image w3-hover-opacity" alt="food" width="500" height="750">
     </div>
   </div>
-
   <hr>
 <!-- End page content -->
 
@@ -82,7 +78,7 @@ h1,h2,h3,h4,h5,h6 {
   <p>ชมบรรยากาศและอาหาร</p>
 </div>
 
-<div class="w3-content w3-display-container" style="max-width:600px;min-width:600px letter-spacing:3px;">
+<div class="w3-content w3-display-container" style="max-width:700px;min-width:700px letter-spacing:3px;">
 
 <div class="w3-display-container mySlides"> 
   <img src="slj3.jpg" style="width:100%">
